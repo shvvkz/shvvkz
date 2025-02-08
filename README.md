@@ -10,8 +10,8 @@ I'm a 21-year-old versatile software developer with a strong passion for technol
 - **Excel Project Tracker** 📊
   A desktop application developed to simplify work hour tracking in my workplace. It processes hundreds of `.xlsx` files to extract employee work hours, providing a streamlined solution for data parsing and analysis. This project allowed me to create an impactful tool tailored to specific organizational needs.
 
-- **Pulse (API done) (In Progress)** 💪
-  A REST API built with **Rust**, **Shuttle**, and **Rocket**, designed to serve as the backend for a future mobile application. The app will help users manage their workout routines and track fitness progress. This ongoing project demonstrates my forward-thinking approach and commitment to creating solutions that enhance user experiences.
+- **own-lang (Compiler in Progress)**  🖥️
+  A custom programming language and compiler built from scratch using **Rust**. This project includes a **lexer, parser, and code generator**, compiling code into **x86_64 NASM assembly**. The language supports **variables, loops, conditionals, functions, and expressions**, making it a fully functional low-level language. This project showcases my ability to work on **compiler design, assembly code generation, and language processing**, demonstrating a deep understanding of how programming languages work under the hood.
 
 ### Skills and Expertise 🛠️:
 - Full-stack development: **Angular** ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white), **Rocket/Axum** ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white), **NestJS** ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white), **ExpressJS** ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
