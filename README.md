@@ -1,6 +1,6 @@
 # Hi there, I'm Viggo 👋
 
-I'm a 21-year-old versatile software developer with a strong passion for technology and problem-solving. I love learning new things and diving into projects that can make a difference. 🚀
+I'm a 22-year-old versatile software developer with a strong passion for technology and problem-solving. I love learning new things and diving into projects that can make a difference. 🚀
 
 ### Notable Projects:
 
