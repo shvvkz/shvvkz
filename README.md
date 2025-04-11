@@ -10,7 +10,7 @@ I'm a 22-year-old versatile software developer with a strong passion for technol
 - **Excel Project Tracker** 📊
   A desktop application developed to simplify work hour tracking in my workplace. It processes hundreds of `.xlsx` files to extract employee work hours, providing a streamlined solution for data parsing and analysis. This project allowed me to create an impactful tool tailored to specific organizational needs.
 
-- **own-lang (Compiler in Progress)**  🖥️
+- **own-lang**  🖥️
   A custom programming language and compiler built from scratch using **Rust**. This project includes a **lexer, parser, and code generator**, compiling code into **x86_64 NASM assembly**. The language supports **variables, loops, conditionals, functions, and expressions**, making it a fully functional low-level language. This project showcases my ability to work on **compiler design, assembly code generation, and language processing**, demonstrating a deep understanding of how programming languages work under the hood.
 
 ### Skills and Expertise 🛠️:
